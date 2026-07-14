@@ -1,13 +1,12 @@
 FUNCTION Main()
-    LOCAL cNome := "Matheus"
-    LOCAL cSobrenome := "Mayer"
+    LOCAL cNome := "Matheus Mayer"
     LOCAL cCidade := "Sorocaba"
     LOCAL cCurso := "Harbour/ADVPL"
 
     QQOUT("===========================")
-    QOut("  FICHA DE APRESENTA€ÇO")
+    QOut("  FICHA DE APRESENTAâ‚¬Ã‡O")
     QOut("===========================")
-    QOut("Nome      : " + cNome + " " + cSobrenome)
+    QOut("Nome      : " + cNome)
     QOut("Cidade    : " + cCidade)
     QOut("Curso     : " + cCurso)
     QOut("===========================")
