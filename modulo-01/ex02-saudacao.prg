@@ -3,7 +3,7 @@ FUNCTION Main ()
     LOCAL cCidade := "Sorocaba"
 
     QOut("Olá, Mundo!")
-    QOut("Bem-vindo(a) à Jornada DEV START!")
+    QOut("Bem-vindo(a) a Jornada DEV START!")
     QOut("Eu sou o " + cNome + " e moro em " + cCidade)
     QOut("Pronto para aprender ADVPL!")
     

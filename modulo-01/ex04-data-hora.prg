@@ -10,7 +10,7 @@ FUNCTION Main()
     LOCAL cHoraAtual := Time()
 
     QQOUT("===========================")
-    QOut("  FICHA DE APRESENTA��O")
+    QOut("  FICHA DE APRESENTACAO")
     QOut("===========================")
     QOut("Nome      : " + cNome)
     QOut("Cidade    : " + cCidade)

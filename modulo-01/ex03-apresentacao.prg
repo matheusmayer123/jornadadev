@@ -4,7 +4,7 @@ FUNCTION Main()
     LOCAL cCurso := "Harbour/ADVPL"
 
     QQOUT("===========================")
-    QOut("  FICHA DE APRESENTAÇÃO")
+    QOut("  FICHA DE APRESENTACAOO")
     QOut("===========================")
     QOut("Nome      : " + cNome)
     QOut("Cidade    : " + cCidade)
